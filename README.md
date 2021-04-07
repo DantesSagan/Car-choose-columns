@@ -1,3 +1,7 @@
+  ![alt text](icon-luxury.svg)
+  ![alt text](icon-sedans.svg)
+  ![alt text](icon-suvs.svg)
+
 # Frontend Mentor - 3-column preview card component
 
 ![Design preview for the 3-column preview card component coding challenge](./design/desktop-preview.jpg)
